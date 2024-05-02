@@ -1,0 +1,55 @@
+/*
+  white: #FFFFFF
+  Dark red #B40404
+ Pacific Blue #0F857C
+*/
+
+body{
+  padding: 54px;
+}
+
+h1{
+  color: #B40404;
+  text-align: center;
+}
+
+th, td{
+  border-style: solid;
+  border-color: #0F857C;
+  border-width: 2px;
+  padding: 6px;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+a{
+  color: #B40404;
+  font-weight: bold;
+  text-decoration-line: none;
+}
+
+a:hover{
+  color: #0F857C;
+}
+
+p.text{
+  background-color: #B40404;
+  color: #FFFFFF;
+  width: 236px;
+  padding: 36px;
+  border-style: dashed;
+  border-width: 6px;
+  border-color: #0F857C;
+  margin-left: 28px;
+}
+div{
+  background-color: #B40404;
+  width: 646px;
+  padding: 28 px;
+  border-style: groove;
+  border-width: 8px;
+  border-color: #0F857C;
+  margin: 36px;
+}
