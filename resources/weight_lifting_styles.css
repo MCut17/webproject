@@ -1,0 +1,42 @@
+/* colors
+ Black #000000
+White #ECEFF1
+Red #B11E1E
+*/
+
+h1{
+	text-align: center;
+	color: #B11E1E;
+}
+h2{
+	color: #B11E1E;
+}
+p.picture{
+	text-align: center;
+}
+a:hover{
+	color: #B11E1E;
+}
+body{
+	background-color: #000000;
+}
+p{
+	color: #ECEFF1;
+}
+
+table{
+	color: #ECEFF1;
+	border-collapse: collapse;
+	border-color: #B11E1E;
+	border-style: solid;
+	text-align: center;
+
+}
+ul{
+	color: #ECEFF1;
+}
+th, td{
+	border-style: solid;
+	border-collapse: collapse;
+	color: #ECEFF1;
+}
